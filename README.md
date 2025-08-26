@@ -1,2 +1,2 @@
 # Predicting-Movie-Genres
-NA
+This is an assignment from my AI and Machine Learning masters program that demonstrates an understanding in TF-IDF and Neural Networks using scikit-learn and Tensorflow.
